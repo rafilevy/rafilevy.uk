@@ -1,0 +1,15 @@
+.skills_list {
+    columns: 3;
+}
+
+@media only screen and (max-width: 850px) and (min-width: 600px) {
+    .skills_list {
+        columns: 2;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .skills_list {
+        columns: 1;
+    }
+}
