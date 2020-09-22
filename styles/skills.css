@@ -2,6 +2,40 @@
     columns: 3;
 }
 
+.rust {
+    color: rgb(154, 83, 8);
+}
+.java {
+    color: rgb(249, 154, 22);
+}
+.python {
+    color: rgb(52, 110, 158);
+}
+.javascript {
+    color: rgb(225, 205, 25);
+}
+.react {
+    color: rgb(97, 219, 251);
+}
+.html {
+    color: rgb(240, 100, 40);
+}
+.ocaml {
+    position: relative;
+    color: rgb(241, 138, 3);
+}
+.ocaml > .ocaml_icon {
+    position: absolute;
+    position: absolute;
+    top: 5px;
+    margin-left: .5ex;
+}
+.ocaml_icon {
+    background-image: url("../res/ocaml_logo.svg");
+    width: 1em;
+    height: 1em;
+}
+
 @media only screen and (max-width: 850px) and (min-width: 600px) {
     .skills_list {
         columns: 2;
