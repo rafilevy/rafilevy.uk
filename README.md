@@ -1,3 +1,3 @@
 # rafilevy.co.uk
 
-My personal website / blog
+My personal website.
