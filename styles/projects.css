@@ -21,9 +21,8 @@
     border: 2px solid black;
     border-radius: 5px;
 
-    background: rgba(175,186,204,1);
-    background: linear-gradient(127deg, rgba(255,255,255,1) 0%, var(--lightPrimary) 100%);
-
+    background: rgb(252,249,255);
+    background: linear-gradient(90deg, rgba(252,249,255,1) 0%, rgba(237,252,255,1) 100%);
     box-shadow: none;
 
     transition: box-shadow 0.3s ease-out,
